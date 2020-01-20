@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: GaryLiang的技术专栏
+title: GaryLiang Blog
 brief-intro: Android and Java Coder
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gc-jingx.github.io" # the base hostname & protocol for your site
@@ -23,7 +23,7 @@ zhihu_username:
 linkedIn_username:  
 dribbble_username:
 
-description_footer: 来自GaryLiang的个人专栏！
+description_footer: GaryLiang的个人专栏！
 
 # comments
 # two ways to comment, only choose one, and use your own short name
@@ -35,7 +35,7 @@ disqus_shortname: #GaryLiang
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
 # hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
 # xxxxx字符串
-baidu_tongji_id: 552aa8d99c04e57a157ba015b317ce20
+baidu_tongji_id: a1703dccb0e759c49ef4465a48d3956a
 google_analytics_id: UA-72449510-4 # google 分析追踪id
 
 # Build settings
