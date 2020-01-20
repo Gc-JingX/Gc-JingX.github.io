@@ -27,6 +27,7 @@ type: page
 
 ## 联系我
 
-* GitHub：[Gaohaoyang](https://github.com/Gaohaoyang)
+* GitHub：[GaryLiang](https://github.com/Gc-JingX)
+* 码云：[GaryLiang](https://gitee.com/Gary_Liang)
 * QQ 595184932@qq.com 
  
