@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "CentOS7定时任务详解"
-categories: linux
-tags:  centos7 crontab linux 工具软件  
-author: SnakeSon
+title:  "网页测试"
+categories: android
+tags:  android
+author: GaryLiang
 ---
 
 * content
