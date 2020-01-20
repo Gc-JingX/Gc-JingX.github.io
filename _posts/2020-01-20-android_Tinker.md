@@ -16,7 +16,7 @@ Tinker 官网  http://tinkerpatch.com/
 
 花几分钟注册个账号  新建一个APP  APP名称建议和工程名称一样，方便管理
 
-![图片.png](https://img-blog.csdn.net/20180313180508257)
+![](https://img-blog.csdn.net/20180313180508257)
 
 ## 2.SDK接入
 > 1）、配置Tinker版本信息
@@ -257,16 +257,16 @@ tinkerPatch {
 
 >5） 配置application 文件
 
-![图片.png](https://img-blog.csdn.net/20180313180726163)
+![](https://img-blog.csdn.net/20180313180726163)
 
 
 ## 3、生成基准包
 
-![图片.png](https://img-blog.csdn.net/20180313180817581)
+![](https://img-blog.csdn.net/20180313180817581)
 
 双击assembleRelease 生成一个文件  也就是基准包，通俗点来说 就是当前发布出去的包，而且还带有bug的 而这个文件在哪里可以获取到呢，看下图
 
-![图片.png](https://img-blog.csdn.net/20180313180901984)
+![](https://img-blog.csdn.net/20180313180901984)
 
 在本地电脑里 找到这个文件 安装到手机 运行一次 然后杀掉
 
@@ -288,17 +288,17 @@ appVersion = "0.0.8"
 
 注意的是  appVersion 要和versionName 一样 然后执行最后一步 如下图
 
-![图片.png](https://img-blog.csdn.net/20180313180926990)
+![](https://img-blog.csdn.net/20180313180926990)
 
 点击thinkerPathRelease  等待片刻后 会生成一个补丁包如下图
 
-![图片.png](https://img-blog.csdn.net/20180313181109812)
+![](https://img-blog.csdn.net/20180313181109812)
 
 ##  5.发布补丁包
 
-![图片.png](https://img-blog.csdn.net/20180313181210134)
+![](https://img-blog.csdn.net/20180313181210134)
 
-![图片.png](https://img-blog.csdn.net/20180313181133844)
+![](https://img-blog.csdn.net/20180313181133844)
 
 
 
