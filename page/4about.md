@@ -13,9 +13,9 @@ type: page
 
 <iframe src="https://githubbadge.appspot.com/gaohaoyang?s=1" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
 
-就职于广州丁丁医聊。
+ 
 
-主要兴趣集中在Android 开发
+主要兴趣集中在Android ,flutter 开发
 
 有智能家居蓝牙设备，答题直播，聊天，商城等等类型项目经验。
 
@@ -27,7 +27,7 @@ type: page
 
 ## 联系我
 
-* GitHub：[GaryLiang](https://github.com/Gc-JingX)
-* 码云：[GaryLiang](https://gitee.com/Gary_Liang)
+* GitHub：[Johnny](https://github.com/Gc-JingX)
+* 码云：[Johnny](https://gitee.com/Gary_Liang)
 * QQ 595184932@qq.com 
  
